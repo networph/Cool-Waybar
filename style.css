@@ -1,0 +1,56 @@
+* {
+        margin: 2px 2px 2px 2px;
+        font-family: "JetBrainsMonoNerdFont";
+        font-size: 13;
+}
+
+#waybar {
+        color: #E5E9F0;
+        background: transparent;
+}
+
+#workspaces {
+        margin-left: 7px;
+        background: #4c566a;
+        color: #E5E9F0;
+        border-radius: 3px;
+        padding: 0px 15px 0px 15px;
+}
+
+#workspaces button {
+  color: #ffffff;
+}
+
+#window {
+        background: #4c566a;
+        border-radius: 3px;
+        padding: 0px 15px 0px 15px;
+}
+
+#battery, #clock {
+      margin: 0px 7px;
+}
+
+#battery {
+        background: #4c566a;
+        border-radius: 3px;
+        padding: 0px 15px 0px 15px;
+}
+
+#clock {
+        background: #4c566a;
+        border-radius: 3px;
+        padding: 0px 15px 0px 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
